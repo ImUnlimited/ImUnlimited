@@ -10,8 +10,10 @@
 <p> 15y, programming since I was 12 years old. English and Portuguese. I'm Brazilian. </p>
 
 <h3> ・🦇 My Projects: </h1>
-<p> MyBots (in development) </br>
-Hazuki (discontinued) </p>
+<p> MyBots (under development) </br>
+Hazuki (discontinued) </br>
+TapeBot (under development)
+</p>
 
 <h3> ・💻 Contact me: </h1>
 <p> Discord: RD#0666 </br>
