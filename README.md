@@ -1,4 +1,4 @@
-<h1>Hey, I'm Unlimited</h1>
-<p>Front-End Developer</p>
+<h1>Hi, I'm Unli</h1>
+<p>Fullstack Developer</p>
 <h1>🧑‍🔬 Technologies:</h1>
-<p>ReactJS, JavaScript (also TypeScript), Vite, Electron, TailwindCSS, and many others.</p>
+<p>React, Typescript, Vite, Electron, TailwindCSS, Java, etc.</p>
